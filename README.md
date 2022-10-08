@@ -4,8 +4,7 @@
 
 ## Introduction
 
-A listing service is a database of a company that is collected from real estate brokers who agree to publish their information and listings in public. These companies publish their listings online to connect buyers and sellers. Furthermore, a listing provider in Kilid is a procedure to collect published listings from multiple sources. In the following, a template is presented for you to better understand and follow the project.
-
+A listing service is a database of a company that is collected from real estate brokers who agree to publish their information and listings in public. These companies publish their listings online to connect buyers and sellers.
 ## Definitions
 
 #### Listing
