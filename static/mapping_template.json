@@ -1,0 +1,55 @@
+{
+ "sourceId": null,
+ "contactInfo": {
+   "callNumber": null,
+   "fullName": null,
+   "type": null,
+   "logoUrl": null,
+   "nameLocal": null,
+   "nameLat": null
+ },
+ "currentStatusId": null,
+ "listingTypeId": null,
+ "attributes": {
+   "floorArea": {
+     "value": null,
+     "unit": null
+   },
+   "noBeds": null,
+   "noBaths": null,
+   "noParkings": null,
+   "specifics": [
+     {
+       "typeId": null,
+       "type": null,
+       "id": null
+     }
+   ]
+ },
+ "values": {
+   "unitPrice": null,
+   "currency": {
+     "value": null
+   }
+ },
+ "location": {
+    "mainLocation": null,
+    "longitude": null,
+    "latitude": null
+  },
+ "media": [
+   {
+     "type": null,
+     "photoSmallUrl": null,
+     "photoLargeUrl": null,
+     "isCover": null
+   }
+ ],
+ "additionalInfo": [
+   {
+     "key": null,
+     "value": null
+   }
+ ],
+ "sourceUrl": null
+}
